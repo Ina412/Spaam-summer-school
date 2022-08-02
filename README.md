@@ -1,1 +1,2 @@
-# Spaam-summer-schoolJust an example repo
+# Spaam-summer-school
+Just an example repo
